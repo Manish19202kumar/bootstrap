@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+main{
+height: 100vh;
+width: 100vw;
+background-color: aqua;
+display: grid;
+}
+.div1{
+   height: 10vh;
+   width: 90vw; 
+   background-color: blueviolet; 
+}
+.div2{
+    height: 10vh;
+    width: 30vw; 
+    background-color: rgb(80, 7, 24); 
+ }
+ .div3{
+    height: 10vh;
+    width: 30vw; 
+    background-color: rgb(123, 15, 38); 
+ }
+ .div4{
+    height: 10vh;
+    width: 30vw; 
+    background-color: rgb(25, 71, 157); 
+ }
+ .div5{
+    height: 20vh;
+    width: 90vw; 
+    background-color: rgb(65, 14, 113); 
+ }
+ .div6{
+    height: 20vh;
+    width: 90vw; 
+    background-color: rgb(136, 88, 17); 
+ }
+ .div7{
+    height: 20vh;
+    width: 90vw; 
+    background-color: rgb(43, 226, 92); 
+ }
